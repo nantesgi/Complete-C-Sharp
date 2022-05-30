@@ -1,0 +1,8 @@
+C:\Users\giova\Pastas\Cursos\CursoCompletoCSharp\CursoCompletoCSharp\6-ListasParte1\bin\Debug\6-ListasParte1.exe.config
+C:\Users\giova\Pastas\Cursos\CursoCompletoCSharp\CursoCompletoCSharp\6-ListasParte1\bin\Debug\6-ListasParte1.exe
+C:\Users\giova\Pastas\Cursos\CursoCompletoCSharp\CursoCompletoCSharp\6-ListasParte1\bin\Debug\6-ListasParte1.pdb
+C:\Users\giova\Pastas\Cursos\CursoCompletoCSharp\CursoCompletoCSharp\6-ListasParte1\obj\Debug\6-ListasParte1.csproj.AssemblyReference.cache
+C:\Users\giova\Pastas\Cursos\CursoCompletoCSharp\CursoCompletoCSharp\6-ListasParte1\obj\Debug\6-ListasParte1.csproj.SuggestedBindingRedirects.cache
+C:\Users\giova\Pastas\Cursos\CursoCompletoCSharp\CursoCompletoCSharp\6-ListasParte1\obj\Debug\6-ListasParte1.csproj.CoreCompileInputs.cache
+C:\Users\giova\Pastas\Cursos\CursoCompletoCSharp\CursoCompletoCSharp\6-ListasParte1\obj\Debug\6-ListasParte1.exe
+C:\Users\giova\Pastas\Cursos\CursoCompletoCSharp\CursoCompletoCSharp\6-ListasParte1\obj\Debug\6-ListasParte1.pdb

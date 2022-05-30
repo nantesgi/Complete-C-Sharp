@@ -1,0 +1,8 @@
+C:\Users\giova\Pastas\Cursos\CursoCompletoCSharp\CursoCompletoCSharp\6-VetoresParte2\bin\Debug\6-VetoresParte2.exe.config
+C:\Users\giova\Pastas\Cursos\CursoCompletoCSharp\CursoCompletoCSharp\6-VetoresParte2\bin\Debug\6-VetoresParte2.exe
+C:\Users\giova\Pastas\Cursos\CursoCompletoCSharp\CursoCompletoCSharp\6-VetoresParte2\bin\Debug\6-VetoresParte2.pdb
+C:\Users\giova\Pastas\Cursos\CursoCompletoCSharp\CursoCompletoCSharp\6-VetoresParte2\obj\Debug\6-VetoresParte2.csproj.AssemblyReference.cache
+C:\Users\giova\Pastas\Cursos\CursoCompletoCSharp\CursoCompletoCSharp\6-VetoresParte2\obj\Debug\6-VetoresParte2.csproj.SuggestedBindingRedirects.cache
+C:\Users\giova\Pastas\Cursos\CursoCompletoCSharp\CursoCompletoCSharp\6-VetoresParte2\obj\Debug\6-VetoresParte2.csproj.CoreCompileInputs.cache
+C:\Users\giova\Pastas\Cursos\CursoCompletoCSharp\CursoCompletoCSharp\6-VetoresParte2\obj\Debug\6-VetoresParte2.exe
+C:\Users\giova\Pastas\Cursos\CursoCompletoCSharp\CursoCompletoCSharp\6-VetoresParte2\obj\Debug\6-VetoresParte2.pdb
