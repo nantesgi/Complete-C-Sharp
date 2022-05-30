@@ -1,0 +1,8 @@
+C:\Users\estagio.sst21\Pastas\Cursos\Curso-C-Sharp-Completo-main\6-MatrizesParte2\bin\Debug\6-MatrizesParte2.exe.config
+C:\Users\estagio.sst21\Pastas\Cursos\Curso-C-Sharp-Completo-main\6-MatrizesParte2\bin\Debug\6-MatrizesParte2.exe
+C:\Users\estagio.sst21\Pastas\Cursos\Curso-C-Sharp-Completo-main\6-MatrizesParte2\bin\Debug\6-MatrizesParte2.pdb
+C:\Users\estagio.sst21\Pastas\Cursos\Curso-C-Sharp-Completo-main\6-MatrizesParte2\obj\Debug\6-MatrizesParte2.csproj.AssemblyReference.cache
+C:\Users\estagio.sst21\Pastas\Cursos\Curso-C-Sharp-Completo-main\6-MatrizesParte2\obj\Debug\6-MatrizesParte2.csproj.SuggestedBindingRedirects.cache
+C:\Users\estagio.sst21\Pastas\Cursos\Curso-C-Sharp-Completo-main\6-MatrizesParte2\obj\Debug\6-MatrizesParte2.csproj.CoreCompileInputs.cache
+C:\Users\estagio.sst21\Pastas\Cursos\Curso-C-Sharp-Completo-main\6-MatrizesParte2\obj\Debug\6-MatrizesParte2.exe
+C:\Users\estagio.sst21\Pastas\Cursos\Curso-C-Sharp-Completo-main\6-MatrizesParte2\obj\Debug\6-MatrizesParte2.pdb
