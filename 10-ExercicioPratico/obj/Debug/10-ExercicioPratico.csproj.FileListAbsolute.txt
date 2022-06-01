@@ -1,0 +1,8 @@
+C:\Users\estagio.sst21\Pastas\Cursos\Curso-C-Sharp-Completo-main\10-ExercicioPratico\bin\Debug\10-ExercicioPratico.exe.config
+C:\Users\estagio.sst21\Pastas\Cursos\Curso-C-Sharp-Completo-main\10-ExercicioPratico\bin\Debug\10-ExercicioPratico.exe
+C:\Users\estagio.sst21\Pastas\Cursos\Curso-C-Sharp-Completo-main\10-ExercicioPratico\bin\Debug\10-ExercicioPratico.pdb
+C:\Users\estagio.sst21\Pastas\Cursos\Curso-C-Sharp-Completo-main\10-ExercicioPratico\obj\Debug\10-ExercicioPratico.csproj.AssemblyReference.cache
+C:\Users\estagio.sst21\Pastas\Cursos\Curso-C-Sharp-Completo-main\10-ExercicioPratico\obj\Debug\10-ExercicioPratico.csproj.SuggestedBindingRedirects.cache
+C:\Users\estagio.sst21\Pastas\Cursos\Curso-C-Sharp-Completo-main\10-ExercicioPratico\obj\Debug\10-ExercicioPratico.csproj.CoreCompileInputs.cache
+C:\Users\estagio.sst21\Pastas\Cursos\Curso-C-Sharp-Completo-main\10-ExercicioPratico\obj\Debug\10-ExercicioPratico.exe
+C:\Users\estagio.sst21\Pastas\Cursos\Curso-C-Sharp-Completo-main\10-ExercicioPratico\obj\Debug\10-ExercicioPratico.pdb
