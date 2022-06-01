@@ -1,0 +1,7 @@
+C:\Users\estagio.sst21\Pastas\Cursos\Curso-C-Sharp-Completo-main\10-Sobreposicao\bin\Debug\10-Sobreposicao.exe.config
+C:\Users\estagio.sst21\Pastas\Cursos\Curso-C-Sharp-Completo-main\10-Sobreposicao\bin\Debug\10-Sobreposicao.exe
+C:\Users\estagio.sst21\Pastas\Cursos\Curso-C-Sharp-Completo-main\10-Sobreposicao\bin\Debug\10-Sobreposicao.pdb
+C:\Users\estagio.sst21\Pastas\Cursos\Curso-C-Sharp-Completo-main\10-Sobreposicao\obj\Debug\10-Sobreposicao.csproj.SuggestedBindingRedirects.cache
+C:\Users\estagio.sst21\Pastas\Cursos\Curso-C-Sharp-Completo-main\10-Sobreposicao\obj\Debug\10-Sobreposicao.csproj.CoreCompileInputs.cache
+C:\Users\estagio.sst21\Pastas\Cursos\Curso-C-Sharp-Completo-main\10-Sobreposicao\obj\Debug\10-Sobreposicao.exe
+C:\Users\estagio.sst21\Pastas\Cursos\Curso-C-Sharp-Completo-main\10-Sobreposicao\obj\Debug\10-Sobreposicao.pdb

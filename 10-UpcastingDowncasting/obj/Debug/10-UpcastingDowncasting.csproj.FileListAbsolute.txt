@@ -1,0 +1,8 @@
+C:\Users\estagio.sst21\Pastas\Cursos\Curso-C-Sharp-Completo-main\10-UpcastingDowncasting\bin\Debug\10-UpcastingDowncasting.exe.config
+C:\Users\estagio.sst21\Pastas\Cursos\Curso-C-Sharp-Completo-main\10-UpcastingDowncasting\bin\Debug\10-UpcastingDowncasting.exe
+C:\Users\estagio.sst21\Pastas\Cursos\Curso-C-Sharp-Completo-main\10-UpcastingDowncasting\bin\Debug\10-UpcastingDowncasting.pdb
+C:\Users\estagio.sst21\Pastas\Cursos\Curso-C-Sharp-Completo-main\10-UpcastingDowncasting\obj\Debug\10-UpcastingDowncasting.csproj.AssemblyReference.cache
+C:\Users\estagio.sst21\Pastas\Cursos\Curso-C-Sharp-Completo-main\10-UpcastingDowncasting\obj\Debug\10-UpcastingDowncasting.csproj.SuggestedBindingRedirects.cache
+C:\Users\estagio.sst21\Pastas\Cursos\Curso-C-Sharp-Completo-main\10-UpcastingDowncasting\obj\Debug\10-UpcastingDowncasting.csproj.CoreCompileInputs.cache
+C:\Users\estagio.sst21\Pastas\Cursos\Curso-C-Sharp-Completo-main\10-UpcastingDowncasting\obj\Debug\10-UpcastingDowncasting.exe
+C:\Users\estagio.sst21\Pastas\Cursos\Curso-C-Sharp-Completo-main\10-UpcastingDowncasting\obj\Debug\10-UpcastingDowncasting.pdb
